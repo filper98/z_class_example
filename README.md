@@ -1,7 +1,7 @@
 # z_class_example
 Example repository for the Z program
 
-
+System.out.println("Hello World!");
 
 ## About this repo
 
